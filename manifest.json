@@ -1,6 +1,6 @@
 {
-"name": "Mentis Fitness Dev",
-"short_name": "Fitness Dev",
+"name": "Mentis Fitness",
+"short_name": "Fitness",
 "description": "Gerador inteligente de treinos.",
 "start_url": "./",
 "display": "standalone",
